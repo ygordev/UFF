@@ -1,3 +1,7 @@
+# Escrito por YGOR MOREIRA LIMA
+# O objetivo do script é retornar a pontuação total de uma string
+# Sendo a pontuação de cada letra pré-atribuída
+
 def scrabble_score(word):
 	score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2, 
          "f": 4, "i": 1, "h": 4, "k": 5, "j": 8, "m": 3, 

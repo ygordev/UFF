@@ -1,7 +1,0 @@
-idade = int(input())
-anos = int(idade/365)
-meses = int((idade%365)/30)
-dias = int((idade%365)%30)
-print(str(anos) + " ano(s)")
-print(str(meses) + " mes(es)")
-print(str(dias) + " dias(s)")

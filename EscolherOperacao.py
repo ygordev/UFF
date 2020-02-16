@@ -1,4 +1,7 @@
+# por Ygor Moreira Lima
+# Objetivo: O usuário digita dois números e uma operação a ser realizada
 # -*- coding:utf-8 -*-
+
 numero1 = int(input("Digite o primeiro numero: "))
 numero2 = int(input("Digite o segundo numero: "))
 operacao = input("Digite o símbolo da operação: ")

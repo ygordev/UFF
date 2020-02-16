@@ -1,6 +1,6 @@
 # Escrito por: YGOR MOREIRA LIMA
 # Graduacao em Sistemas de Informacao - UFF 2019.2
-#
+# Objetivo: Ler um número entre 0 e 99 e retornar o número por extenso
 # eu@ygorlima.com.br
 
 x = int(input("Digite um numero entre 0 e 99: "))

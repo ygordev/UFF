@@ -1,3 +1,6 @@
+# por Ygor Moreira Lima
+# Objetivo: Remover as vogais e retornar o texto
+
 def anti_vowel(text):
 	resultado = ""
 	vogais = "aeiouAEIOU"
