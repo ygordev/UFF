@@ -1,3 +1,6 @@
+# Por: YGOR MOREIRA LIMA - github.com/ygordev
+# Descrição: Gera matrizes de tamanhos determinados pelo usuário
+
 linhasa = int(input("Digite o numero de linhas da matriz A: "))
 colunasa = int(input("Digite o numero de colunas da matriz A: "))
 linhasb = int(input("Digite o numero de linhas da matriz B: "))
